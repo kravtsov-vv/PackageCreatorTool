@@ -158,4 +158,3 @@ For support or questions, please [contact method or create an issue].
 ## Author
 
 Viktor Kravtsov</content>
-<parameter name="filePath">d:\MYGIT\PackageCreatorTool\README.md
